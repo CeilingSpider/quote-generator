@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  color: #000;
+  font-size: 18px;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.container {
+  background-color: lavender;
+  padding: 20px;
+  width: 600px;
+}
+
+.display-quote {
+  /*display: block;*/
+  padding: 25px;
+  width: 500px;
+}
